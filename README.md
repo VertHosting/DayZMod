@@ -2,23 +2,24 @@ DayZ Community Project
 =========================
 
 Affected addons:
-    * dayz_code     [development version - subject to change at any time]
+ - dayz_code     [development version - subject to change at any time]
 
 Community Notes: 
-    * Current Changelog not final Changelog
+ - Current Changelog not final Changelog
 
 Community Change log:
-    Client:
-        * [NEW]     class Mi17_Civilian Now Unbanned. (Mi17_DZ)
-        * [NEW]     HMMWV_Ambulance_CZ_DES_EP1 Now Unbanned. (HMMWV_Ambulance_DZ)
-        * [NEW]     UH60_wreck_EP1 Now Unbanned. 
-        * [NEW]     An2_TK_EP1 Now Unbanned.(AN2_DZ)
-        * [NEW]     UH60M_MEV_EP1 Now Unbanned. (UH60M_DZ)
-        * [NEW]     AH6X Now Unbanned. (AH6X_DZ)
-        * [NEW]     BAF_Offroad_D Now Unbanned.
-        * [NEW]     Fully Removed Save button from action menu.
-        * [NEW]     New combat mode icon (G17) thanks Alexander.
-        * [NEW]     Dogs are now added and can be controlled Thanks Alby.
+
+	Client:
+		* [NEW]     class Mi17_Civilian Now Unbanned. (Mi17_DZ)
+		* [NEW]     HMMWV_Ambulance_CZ_DES_EP1 Now Unbanned. (HMMWV_Ambulance_DZ)
+		* [NEW]     UH60_wreck_EP1 Now Unbanned. 
+		* [NEW]     An2_TK_EP1 Now Unbanned.(AN2_DZ)
+		* [NEW]     UH60M_MEV_EP1 Now Unbanned. (UH60M_DZ)
+		* [NEW]     AH6X Now Unbanned. (AH6X_DZ)
+		* [NEW]     BAF_Offroad_D Now Unbanned.
+		* [NEW]     Fully Removed Save button from action menu.
+		* [NEW]     New combat mode icon (G17) thanks Alexander.
+		* [NEW]     Dogs are now added and can be controlled Thanks Alby.
 
         * [UPDATED] Combat Logging "Fired Near" checks are now limited to 15 metre radius.
         * [UPDATED] Corrected legs and hands fractures they must be set with actual value.
